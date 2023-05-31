@@ -6,8 +6,8 @@ Welcome to our coding challenge for data engineers! In this challenge, you'll be
 
 To complete this challenge, follow the steps below:
 
-1. Fork this repository
-2. Clone the forked repository to your local machine
+1. Import this repo to your personal Github account (see https://github.com/new/import)
+2. Checkout the develop branch
 3. Create a virtual environment and activate it (use `pipenv` or `conda`)
 4. Write Python code to extract, transform, and load the data into a PostgreSQL or Microsoft SQL Server database running in a Docker container. Choose the database you are more comfortable with. 
    - The goal is to create a database schema that Data Analysts can use to analyze the data
@@ -15,7 +15,7 @@ To complete this challenge, follow the steps below:
 5. Optional: Write tests for your code to ensure it's working correctly
 6. Analyze the number of cases per patient, the average age, and the most common ICPC codes
 7. Add the used packages to the `requirements.txt` or `environment.yml` file
-8. Commit your changes and push them to your forked repository
+8. Commit your changes and push them to your imported repository
 9. Create a pull request into the main branch
 
 ### Datasets
